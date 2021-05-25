@@ -3,7 +3,7 @@ About r-ccp
 
 Home: https://CRAN.R-project.org/package=CCP
 
-Package license: GPL
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ccp-feedstock/blob/master/LICENSE.txt)
 
