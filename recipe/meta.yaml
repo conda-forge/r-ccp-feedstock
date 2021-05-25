@@ -16,7 +16,6 @@ build:
   noarch: generic
   merge_build_host: True  # [win]
   number: 1002
-  noarch: generic
   rpaths:
     - lib/R/lib/
     - lib/
@@ -36,7 +35,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=CCP
-  license: GPL
+  license: GPL-2.0-or-later
   summary: Significance tests for canonical correlation analysis, including asymptotic tests
     and a Monte Carlo method
   license_family: GPL
