@@ -1,11 +1,11 @@
-About r-ccp
-===========
+About r-ccp-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ccp-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=CCP
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ccp-feedstock/blob/main/LICENSE.txt)
 
 Summary: Significance tests for canonical correlation analysis, including asymptotic tests and a Monte Carlo method
 
